@@ -1,7 +1,11 @@
 # ADR (Active Debris Removal) ゲーム
 減価する通貨である ADR 通貨の概念を採り入れた宇宙開発事業シミュレーションです。
 
-GPTs 等に instructions として登録することで使用できます。
+GPTs 等に instructions として登録することで使用できます。  
+公開されている GPTs : https://chatgpt.com/g/g-uKMdRDCBV-adrkemu  
+GPTs でプレイする場合はシングルユーザー (任意に NPC を定義して一緒にプレイできます) になります。
+
+慶應義塾大学で開発され、フォークした版が保守されている Discord ボット等を用いることでマルチユーザーでプレイできます : https://github.com/ks91/gpt-discord-bot
 
 ## メインの指示
 ```
