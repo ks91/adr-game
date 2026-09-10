@@ -1,0 +1,8 @@
+# Locally held source materials; do not publish originals.
+/resources/
+
+# Local session output and machine metadata.
+/logs/
+/.loglm_agent
+.DS_Store
+__pycache__/
